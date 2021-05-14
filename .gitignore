@@ -1,0 +1,9 @@
+*
+!.gitignore
+!.gitconfig
+!.gitignore_global
+!.npmrc
+!package.json
+!package-lock.json
+!.prettierrc
+!.eslintrc

@@ -1,0 +1,29 @@
+{
+  "env": {
+    "browser": true,
+    "node": true,
+    "es2021": true
+  },
+
+  "parserOptions": {
+    "sourceType": "module"
+  },
+
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "plugin:react-hooks/recommended",
+    "plugin:prettier/recommended"
+  ],
+
+  "rules": {
+    "react/prop-types": "warn",
+    "prettier/prettier": "warn"
+  },
+
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  }
+}

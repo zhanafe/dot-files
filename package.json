@@ -1,0 +1,28 @@
+{
+  "name": "dot-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "dependencies": {
+    "eslint": "^7.26.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-react": "^7.23.2",
+    "prettier": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhanafe/dot-files.git"
+  },
+  "author": "zhanafe <zhanafe@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/zhanafe/dot-files/issues"
+  },
+  "homepage": "https://github.com/zhanafe/dot-files#readme"
+}
